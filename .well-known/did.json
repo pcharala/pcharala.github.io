@@ -1,8 +1,36 @@
 {
-  "did": "did:web:pcharala.github.io:null",
-  "alias": "Web DID - ES256",
-  "document": "{\"@context\":[\"https://www.w3.org/ns/did/v1\",\"https://w3id.org/security/suites/jws-2020/v1\"],\"id\":\"did:web:pcharala.github.io:null\",\"verificationMethod\":[{\"id\":\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\",\"type\":\"JsonWebKey2020\",\"controller\":\"did:web:pcharala.github.io:null\",\"publicKeyJwk\":{\"kty\":\"EC\",\"crv\":\"P-256\",\"kid\":\"jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\",\"x\":\"sf1IEeQmelXnTAeFG4ivUal3FTJdd6xHnKaZcr_ve1M\",\"y\":\"7u4NUiirUCHcjsJIObTF-WFCY5oDBgVm4zTTo0PIeek\"}}],\"assertionMethod\":[\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\"],\"authentication\":[\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\"],\"capabilityInvocation\":[\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\"],\"capabilityDelegation\":[\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\"],\"keyAgreement\":[\"did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY\"]}",
-  "keyId": "jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY",
-  "default": false,
-  "createdOn": "2026-01-15T13:15:52.629Z"
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:pcharala.github.io:null",
+  "verificationMethod": [
+    {
+      "id": "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:pcharala.github.io:null",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "kid": "jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY",
+        "x": "sf1IEeQmelXnTAeFG4ivUal3FTJdd6xHnKaZcr_ve1M",
+        "y": "7u4NUiirUCHcjsJIObTF-WFCY5oDBgVm4zTTo0PIeek"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY"
+  ],
+  "authentication": [
+    "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY"
+  ],
+  "capabilityInvocation": [
+    "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY"
+  ],
+  "capabilityDelegation": [
+    "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY"
+  ],
+  "keyAgreement": [
+    "did:web:pcharala.github.io:null#jj-NxYZ7KKrpwzqLFwM7zEQb1zUOD9gJBBF1VQkE1BY"
+  ]
 }
