@@ -1,0 +1,36 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:pcharala.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:pcharala.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "kid": "SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso",
+        "x": "wFSSf5YAeDT-kGRAeWsZOx8T9IKGdJBQxZihCMLAKw8",
+        "y": "jglPUL00mrzqob3C6JOZBMCCKyZpk2XKsIg0omyGGZ8"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso"
+  ],
+  "authentication": [
+    "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso"
+  ],
+  "capabilityInvocation": [
+    "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso"
+  ],
+  "capabilityDelegation": [
+    "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso"
+  ],
+  "keyAgreement": [
+    "did:web:pcharala.github.io#SsQiUGQa_Jq4_ia39-xYoLOEwbTpZgVh2BxkCTvRtso"
+  ]
+}
