@@ -6,31 +6,31 @@
   "id": "did:web:pcharala.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144",
+      "id": "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI",
       "type": "JsonWebKey2020",
       "controller": "did:web:pcharala.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "kid": "8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144",
-        "x": "BJDgNx-CI1p0WhM1VC3W6vrbsJSsoTjvTL9S1iXQbiY",
-        "y": "vXk2n1WGTGpJQ70mM7HnsIcG1alHhDk8-CGbRtNm0J0"
+        "kid": "iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI",
+        "x": "f6AWavS1_Kot_NfVhaupa9ubbo0POyHo6akg3SFxWOE",
+        "y": "7H8T2g2EqN7NNvt3aLMiODgop_n9DHtjX2qzEaSbCo0"
       }
     }
   ],
   "assertionMethod": [
-    "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144"
+    "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI"
   ],
   "authentication": [
-    "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144"
+    "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI"
   ],
   "capabilityInvocation": [
-    "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144"
+    "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI"
   ],
   "capabilityDelegation": [
-    "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144"
+    "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI"
   ],
   "keyAgreement": [
-    "did:web:pcharala.github.io#8DayJiIudnaOSLYrPbsvHif6KHUPUsgmwnXTDicp144"
+    "did:web:pcharala.github.io#iUAO6jbfMAviCxMxuzeuDzKVvl7jJMqiJgoImY5KvbI"
   ]
 }
